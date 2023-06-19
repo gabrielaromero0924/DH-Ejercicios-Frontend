@@ -1,0 +1,120 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.descuento{
+    color: #3C2313;
+}
+
+.container1{
+    background-color: black;
+    color: white;
+}
+
+.container2{
+    background-color: #F0A83E;
+    color: white;
+}
+
+.bienvenida{
+    color: #3C2313;
+    text-align: center;
+}
+
+
+.comederos{
+    background-color: #F0A83E;
+    display: inline-flex;
+}
+
+.destacados{
+    color: #3C2313;
+}
+
+.productos{
+    background-color: #FAFAF6;
+}
+
+.tienda{
+    color: #3C2313;
+}
+
+.producto{
+    color: #3C2313;
+}
+
+.precio{
+    color: #F0A83E;
+}
+.redesSociales{
+    background-color: #3C2313;
+}
+
+.text-white{
+    color: white;
+}
+
+.text-gray{
+    color: #8A8787;
+}
+
+.derechos{
+    background-color: #F0A83E;
+    color: white;
+    text-align: center;
+}
+
+/* .box1 {
+    display: inline;
+    position: relative;
+    z-index: 1;
+}
+
+.box2 {
+    background-color: blue;
+    position: relative;
+    
+    z-index: 2;
+    
+
+} */
+
+.imgbanner {
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.container0 {
+    background-image: url(./img/bowl-and-pet-daities-on-green-background\ 1.png);
+    background-size: 100%;
+    width: 100%;
+    height: auto;
+}
+
+.overlap {
+    position: relative;
+    z-index: 2;
+    top: ;
+}
+
+
+
+/* 2 INTENTO  */
+
+.container02 {
+    display: flex;
+    justify-content: center;
+}
+
+.box01 {
+    position: absolute;
+    z-index: 2;   
+    
+}
+
+.box02 {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+}

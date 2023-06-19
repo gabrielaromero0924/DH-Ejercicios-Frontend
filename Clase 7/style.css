@@ -1,0 +1,60 @@
+.logo-batman{
+    display: flex;
+    justify-content: center;
+}
+.curriculumVitae{
+    background-color:#C4C4C4;
+    color: #005677;
+    text-align: center;
+    font-family: 'Times New Roman';
+    letter-spacing: 6px;
+    padding: 10px;
+}
+h2{
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman';
+    letter-spacing: 6px;
+    padding: 5px;
+}
+.bold-italic{
+    font-weight: bold;
+    font-style: italic;
+}
+.bold-text{
+    font-weight: bold;
+}
+.text-indent{
+    text-indent: 80px;
+    line-height: 0.1px;
+}
+.experienciaLaboral{
+    padding-bottom: 100px;
+}
+.piePagina{
+    background-color: #005677;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.trabajos{
+    display: inline-flex;
+}
+
+.trabajos2{
+    display: inline-flex;
+}
+
+.empresayposicion1 > p {
+    margin: 0px;
+    
+}
+
+.empresayposicion2 > p {
+    margin: 0px;
+    
+}
+
+.space {
+    height: 90px;
+}
