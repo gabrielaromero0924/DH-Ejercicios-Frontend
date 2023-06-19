@@ -1,0 +1,83 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.descuentos{
+    background-color: #1CD1B0;
+    padding: 10px;
+    
+}
+
+.title{
+    background-color: #00669F;
+    padding: 30px;
+    margin-bottom: 120px;
+}
+
+.container{
+    margin-bottom: 200px;
+    
+    
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F3F3F3;
+    padding: 0px;
+    border-radius: 10px 10px 0px 0px;
+    position: relative;
+}
+
+.icon{
+    justify-content: left;
+}
+
+.heart{
+    position: absolute;
+    z-index: 3;
+    top: 14px;
+    left: 14px;
+}
+
+.img1{
+    padding: 0%;
+    width: 100%;
+}
+
+.img2{
+    border-radius: 60px;
+    max-width: 120px;
+    position: relative;
+    top: -70px;
+}
+
+.texto{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    top: -50px;
+    align-items: center;
+    padding: 20px;
+}
+
+button{
+    background-color: #00669F;
+    color: white;
+    width: 128.78px;
+    height: 48.52px;
+    border: 0px;
+}
+
+.derechos{
+    background-color: #00669F;
+    color: white;
+    padding: 20px;
+} 
