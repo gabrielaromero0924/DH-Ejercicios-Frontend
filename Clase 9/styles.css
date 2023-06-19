@@ -64,21 +64,6 @@ body{
     text-align: center;
 }
 
-/* .box1 {
-    display: inline;
-    position: relative;
-    z-index: 1;
-}
-
-.box2 {
-    background-color: blue;
-    position: relative;
-    
-    z-index: 2;
-    
-
-} */
-
 .imgbanner {
     width: 100%;
     position: relative;
@@ -117,4 +102,16 @@ body{
     position: relative;
     z-index: 1;
     width: 100%;
+}
+
+.overlap2{
+    font-family: 'Roboto', sans-serif;
+    color: #3C2313;
+}
+
+.overlap3{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-align: center;
+    background-color: #F0A83E;
 }
